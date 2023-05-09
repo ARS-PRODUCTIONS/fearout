@@ -1,0 +1,9 @@
+
+body{background: url("https://i.ibb.co/vwnLtht/LEVEL-0008-Photo-Room.png") no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-color:#000; color:#efefef;}
+body p{line-height:1.85em; font-family:'Open Sans', Arial, Helvetica, sans-serif;}
+.logo{width:100%; margin: 10px 0px; border: 0px solid yellow;}
+.icon{width:10%; height:10%; margin: 5px; border: 0px solid white;} 
+.CTAs{text-align:center; vertical-align: middle; font-size:1em; margin: 30px 0px; border: 0px solid blue;}
+.copy{text-align:center; font-size:1em; margin: 30px 0px;}
+.legal{text-align:center; font-size: 0.6em; margin: 30px 0; color: #A9A9A9;}
+.col-md-4 {margin-bottom: 35px;}
